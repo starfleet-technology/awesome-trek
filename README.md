@@ -8,7 +8,7 @@
 
 **Memory Alpha** | [memory-alpha.fandom.com](https://memory-alpha.fandom.com/) <br>the definitive, canon-only wiki (episodes, people, tech, continuity).
 
-**Memory Beta** | [memory-beta.fandom.com/](https://memory-beta.fandom.com) <br>the "litverse" wiki for novels, comics, games, and RPGs (licensed/non-canon).
+**Memory Beta** | [memory-beta.fandom.com](https://memory-beta.fandom.com) <br>the "litverse" wiki for novels, comics, games, and RPGs (licensed/non-canon).
 
 **StarTrek.com** | [startrek.com](https://www.startrek.com/) <br>official site (news, features, franchise pages, watch guides).
 
@@ -24,4 +24,16 @@
 
 **Starship Schematics Database** | [shipschematics.net](http://www.shipschematics.net/startrek/) <br>broad schematics index across eras & factions.
 
+**Chakoteya (Chrissie's Transcripts)** | [chakoteya.net](https://www.chakoteya.net/) <br>the go-to fan transcripts (TOS/TAS/TNG/DS9/VOY/ENT & films).
+
+**ST-Minutiae** | [st-minutiae.com](https://www.st-minutiae.com) <br> Impressive collection of details, trivia, and articles.
+
+**Forgotten Trek** | [forgottentrek.com](https://forgottentrek.com/) <br>deep behind-the-scenes histories, concept art, & making-of features.
+
+**The Trek Collective** | [thetrekcollective.com](https://www.thetrekcollective.com/) <br>long-running blog with book/comic/merch news plus schedules & guides.
+
+**TrekNews.net** | [treknews.net](https://treknews.net/) <br>frequent news, previews & reviews (including books & comics).
+
+
 *More coming soon...*
+
