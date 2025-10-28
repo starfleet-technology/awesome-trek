@@ -34,6 +34,11 @@
 
 **TrekNews.net** | [treknews.net](https://treknews.net/) <br>frequent news, previews & reviews (including books & comics).
 
-
 *More coming soon...*
 
+## License
+
+This work is licensed under **CC0 1.0 Universal**.
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+See [LICENSE](./LICENSE) for the full text.
