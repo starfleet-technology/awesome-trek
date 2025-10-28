@@ -1,3 +1,27 @@
 # Awesome Trek
 
-A curated list of awesome Star Trek resources, tools, and projects.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated, living list of the best **Star Trek** reference sites, databases, tools, and archives on the web.
+
+## Contents
+
+**Memory Alpha** | [memory-alpha.fandom.com](https://memory-alpha.fandom.com/) <br>the definitive, canon-only wiki (episodes, people, tech, continuity).
+
+**Memory Beta** | [memory-beta.fandom.com/](https://memory-beta.fandom.com) <br>the "litverse" wiki for novels, comics, games, and RPGs (licensed/non-canon).
+
+**StarTrek.com** | [startrek.com](https://www.startrek.com/) <br>official site (news, features, franchise pages, watch guides).
+
+**Ex Astris Scientia (EAS)** | [ex-astris-scientia.org](https://www.ex-astris-scientia.org/) <br>long-running reference on ships, tech, continuity, design notes & essays.
+
+**Daystrom Institute Technical Library (DITL)** | [ditl.org](https://www.ditl.org/) <br>database of ships, weapons, species, timelines & more.
+
+**TrekCore** | [trekcore.com](https://www.trekcore.com/) <br>massive per-series hubs with screencaps, transcripts (some), audio & news features.
+
+**Cygnus-X1 LCARS Blueprints** | [cygnus-x1.net](http://www.cygnus-x1.net/links/lcars/blueprints-main.php) <br>the largest online archive of Trek blueprints (thousands of sheets).
+
+**Trekships (ASDB/FSD)** | [trekships.org](http://www.trekships.org/) <br>fan-scholarship on obscure classes & design lineage.
+
+**Starship Schematics Database** | [shipschematics.net](http://www.shipschematics.net/startrek/) <br>broad schematics index across eras & factions.
+
+*More coming soon...*
