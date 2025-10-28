@@ -1,0 +1,20 @@
+category:
+  id: fun
+  name: Fun & Entertainment
+  emoji: 🎭
+  order: 11
+  description: Entertainment, humor, and creative projects
+resources:
+- id: rikeripsum
+  name: rikeripsum
+  description: 'like lorem ipsum - but uses real English. Taken from random samplings of dialog spoken by Commander William Riker in Star Trek: The Next Generation.'
+  urls:
+    github: https://github.com/ben174/rikeripsum
+  tags: []
+- id: starfleet-engineering-report-generator
+  name: Starfleet Engineering Report Generator
+  description: The Starfleet Engineering Report Generator is a humorous, web-forward application designed to create realistic but funny Star Trek-style engineering reports.
+  urls:
+    github: https://github.com/RocketMobster/warpcorereports
+    website: https://rocketmobster.github.io/warpcorereports/
+  tags: []
