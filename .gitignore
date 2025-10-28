@@ -1,0 +1,12 @@
+# Local cache directory
+.cache/
+
+# Python artifacts
+__pycache__/
+
+# (Virtual) environment directories
+.venv/
+.env
+
+# mkdocs
+site/

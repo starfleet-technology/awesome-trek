@@ -1,0 +1,12 @@
+site_name: Awesome Trek
+site_url: https://awesome.starfleet.technology
+theme:
+  name: mkdocs
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggestions
+    - toc.integrated
+nav:
+  - Home: index.md
