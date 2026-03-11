@@ -34,6 +34,8 @@
 
 **TrekNews.net** | [treknews.net](https://treknews.net/) <br>frequent news, previews & reviews (including books & comics).
 
+**StellarCartography.org** | [stellarcartography.org](https://stellarcartography.org/sta/2400/10/0/0) <br>Interactive map of the Star Trek galaxy.
+
 *More coming soon...*
 
 ## License
